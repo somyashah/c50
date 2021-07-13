@@ -1,0 +1,22 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.head{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.gred{
+    display:flex;
+   flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
